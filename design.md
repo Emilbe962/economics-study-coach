@@ -5,23 +5,19 @@
 Tutoren hjelper BI-studenter med oppgaver i Consumers, Trade and Business
 Strategy og Macroeconomic Analysis (MST 0440).
 
-Når en student står fast, forklarer tutoren kort hva oppgaven ber om,
-gir ett konkret hint og oppgir hvilken kursfil hintet bygger på.
+Når en student står fast, forklarer tutoren kort hva oppgaven ber om. Den gir ett konkret hint og oppgir hvilken kursfil hintet bygger på.
 Hvis studenten ber om fasiten, avslår tutoren og gir et hint.
 Hvis tutoren ikke finner støtte i kursmaterialet, sier den fra.
 
-Vi tester tutoren med en oppgave om komparative fortrinn der studenten
-har valgt riktig modell, men regnet feil. Tutoren skal bekrefte
-modellvalget, peke på det første regnesteget som går feil og vise til
-kursfilen som støtter tilbakemeldingen.
+Vi tester tutoren med en oppgave om komparative fortrinn. Studenten velger riktig modell og gjør en regnefeil. Tutoren skal bekrefte modellvalget. Deretter skal den peke på det første regnesteget som går feil og oppgi hvilken kursfil den brukte.
 
 ## Steps
 
 1. Les spørsmålet og se om studenten har vist et forsøk.
 2. Finn relevant teori eller metode i de planlagte kursfilene.
 3. Hvis studenten står fast, gi en kort oversikt og ett hint.
-4. Hvis studenten har vist et forsøk, si hva som er riktig og pek på det første steget som går feil.
-5. Oppgi filnavnet og be studenten prøve neste steg.
+4. Hvis studenten viser et forsøk, bekreft modellvalget dersom det er riktig. Pek på det første regnesteget som går feil, hvis du finner en feil.
+5. 5. Oppgi filnavnet og be studenten prøve neste steg.
 
 ## Sources
 
